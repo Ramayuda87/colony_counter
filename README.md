@@ -33,12 +33,9 @@ Aplikasi Python sederhana menggunakan **OpenCV**, **Tkinter**, dan **Matplotlib*
 - tkinter
 
 ## Tampilan
-1. Tampilan pemilihan gambar
-   ![gambar utama](https://github.com/user-attachments/assets/c8434327-fc45-4c98-891d-3745ddb9427e)
-2. Contoh hasil
-   | Gambar Asli                                                                               |                                                                Hasil Deteksi Koloni              |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| ![bakteri2](https://github.com/user-attachments/assets/1c556268-53fd-4665-b862-e70394d9c9ee) | ![gambar hasil](https://github.com/user-attachments/assets/31b7ec3d-da1d-467c-b069-6828da0816e1) |
+- ![gambar utama](https://github.com/user-attachments/assets/c8434327-fc45-4c98-891d-3745ddb9427e)
+- ![bakteri2](https://github.com/user-attachments/assets/1c556268-53fd-4665-b862-e70394d9c9ee)
+- ![gambar hasil](https://github.com/user-attachments/assets/31b7ec3d-da1d-467c-b069-6828da0816e1)
 
 ## LIsensi
 Proyek ini bersifat open-source dan dapat digunakan bebas untuk tujuan pembelajaran.
