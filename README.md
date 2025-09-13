@@ -37,6 +37,6 @@ Aplikasi Python sederhana menggunakan **OpenCV**, **Tkinter**, dan **Matplotlib*
 - ![bakteri2](https://github.com/user-attachments/assets/1c556268-53fd-4665-b862-e70394d9c9ee)
 - ![gambar hasil](https://github.com/user-attachments/assets/31b7ec3d-da1d-467c-b069-6828da0816e1)
 
-## LIsensi
+## Lisensi
 Proyek ini bersifat open-source dan dapat digunakan bebas untuk tujuan pembelajaran.
 Tentunya masih banyak kekurangan dalam aplikasi ini dan butuh pengembangan lebih lanjut.
